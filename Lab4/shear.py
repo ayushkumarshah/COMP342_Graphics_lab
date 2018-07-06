@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#shearing along x and y directions
 from tkinter import *
 
 def draw(x1,y1,x2,y2,x3,y3):
