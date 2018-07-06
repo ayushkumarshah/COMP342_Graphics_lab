@@ -1,4 +1,4 @@
-#composite transformation
+#composite transformation using composoite transformation matrix
 # -*- coding: utf-8 -*-
 from tkinter import *
 from math import sin, cos, radians, pi
